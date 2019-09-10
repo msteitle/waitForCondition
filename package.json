@@ -1,5 +1,6 @@
 {
   "name": "wait-for-condition",
+  "version": "1.0.0",
   "scripts": {
     "test": "yarn jest --watch --notify"
   },
