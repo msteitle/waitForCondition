@@ -1,6 +1,7 @@
 {
   "name": "@msteitle/wait-for",
   "version": "1.0.0",
+  "main": "lib/index.js",
   "scripts": {
     "test": "yarn jest --watch --notify",
     "build:commonjs": "babel src --out-dir lib"
@@ -27,7 +28,6 @@
     "jest": "^24.9.0",
     "jest-cli": "^24.9.0"
   },
-  "main": "lib/index.js",
   "description": "Utility function which waits for a condition to be met by delay frequency and within timeout.",
   "author": "Matt Steitle <matt.steitle@users.noreply.github.com>",
   "license": "MIT",
