@@ -1,1 +1,1 @@
-export { default } from './waitFor';
+export { default } from './src/waitFor';
